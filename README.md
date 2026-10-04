@@ -88,9 +88,6 @@ Below is the confusion matrix generated from the validation results:
 
 ---
 
-## API Documentation & Usage
-
-The API is fully documented and interactive out-of-the-box. Once deployed, you can access the interactive Swagger UI documentation at: `https://<your-cloud-run-url>/docs`
 
 ### 1. Scan by Coordinates (GET)
 
